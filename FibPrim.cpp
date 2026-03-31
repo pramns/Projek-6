@@ -54,7 +54,7 @@ void HasilPrima() {
     }
 }
 
-void tampilkanHasilFibonacci() {
+void HasilFibonacci() {
     if (isFibonacci(angka)) {
         cout << "-> HASIL: " << angka << " ADALAH bagian dari deret Fibonacci." << endl;
     } else {
