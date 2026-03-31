@@ -12,4 +12,7 @@ void Menu() {
     cout << "Masukkan pilihan Anda (0-2): ";
 }
 
-
+void inputAngka() {
+    cout << "Masukkan angka: ";
+    cin >> angka;
+}
