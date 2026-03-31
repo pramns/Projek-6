@@ -77,4 +77,7 @@ int main() {
                 inputAngka();
                 HasilFibonacci();
                 break;
+            case 0:
+                cout << "\nKeluar dari program. Terima kasih!" << endl;
+                break;
 }
